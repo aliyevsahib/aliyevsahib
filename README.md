@@ -1,7 +1,7 @@
-<p align="center">
-  # Hi 👋, I'm Sahib Aliyev
-  
-  ### Junior Data Specialist from Azerbaijan
+<p align="center" font-size=24px>
+  Hi 👋, I'm Sahib Aliyev
+  <br/>
+  Junior Data Specialist from Azerbaijan
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=aliyevsahib&label=Profile%20views&color=0e75b6&style=flat)
