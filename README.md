@@ -1,9 +1,9 @@
-<h3 align="center">
+<h1 align="center">
   Hi 👋, I'm Sahib Aliyev
-</h3>
-<h4>
+</h1>
+<h3 align="center">
   Junior Data Specialist from Azerbaijan
-</h4>
+</h3>
 
 ![Profile views](https://komarev.com/ghpvc/?username=aliyevsahib&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -24,40 +24,40 @@
 ### Languages and Tools:
 <p align="left">
   <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=py&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py&theme=dark" width="50"/>
   </a>
   <a href="https://numpy.org/">
-    <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" />
+    <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" width="50"/>
   </a>
   <a href="https://pandas.pydata.org/">
-    <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" />
+    <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" width="50"/>
   </a>
   <a href="https://matplotlib.org/">
-    <img src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000" />
+    <img src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000" width="50"/>
   </a>
   <a href="https://seaborn.pydata.org/">
-    <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" />
+    <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" width="50"/>
   </a>
   <a href="https://scikit-learn.org/stable/#">
-    <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="50"/>
   </a>
   <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50"/>
   </a>
   <a href="https://www.selenium.dev/">
-    <img src="https://skillicons.dev/icons?i=selenium&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=selenium&theme=dark" width="50"/>
   </a>
   <a href="https://anaconda.org/">
-    <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="50"/>
   </a>
   <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50"/>
   </a>
   <a href="https://www.jetbrains.com/pycharm/">
-    <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="50"/>
   </a>
 </p>
 
