@@ -1,8 +1,9 @@
-<p align="center" font-size=24px>
+<h3 align="center">
   Hi 👋, I'm Sahib Aliyev
-  <br/>
+</h3>
+<h4>
   Junior Data Specialist from Azerbaijan
-</p>
+</h4>
 
 ![Profile views](https://komarev.com/ghpvc/?username=aliyevsahib&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -25,14 +26,23 @@
   <a href="https://www.python.org/">
     <img src="https://skillicons.dev/icons?i=py&theme=dark" />
   </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+  <a href="https://numpy.org/">
+    <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" />
   </a>
-  <a href="https://sqlitebrowser.org/">
-    <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" />
+  </a>
+  <a href="https://matplotlib.org/">
+    <img src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000" />
+  </a>
+  <a href="https://seaborn.pydata.org/">
+    <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" />
   </a>
   <a href="https://scikit-learn.org/stable/#">
     <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://skillicons.dev/icons?i=html&theme=dark" />
