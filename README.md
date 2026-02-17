@@ -1,10 +1,10 @@
 # Hi 👋, I'm Sahib Aliyev
 
-### Data Analyst | Digital Automation Engineer (Junior) from Azerbaijan
+### Junior Data Specialist from Azerbaijan
 
 ![Profile views](https://komarev.com/ghpvc/?username=aliyevsahib&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 I’m currently learning **Advanced Machine Learning and NLP**
+- 🌱 I’m currently learning **Advanced Web Scraping**
 - 💬 Ask me about **Python, SQL, Web Scraping, and Automation**
 - 📫 How to reach me: **sahibaliyev.ai@gmail.com**
 
@@ -16,9 +16,6 @@
   <a href="https://www.linkedin.com/in/sahib-aliyev-ai" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn">
   </a>
-  <a href="mailto:sahibaliyev.ai@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/>
-  </a>
 </p>
 
 ### Languages and Tools:
@@ -28,9 +25,12 @@
   </a>
 </p>
 
-### Support:
-<a href="https://www.buymeacoffee.com/aliyevsahib" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important;width: 151.9px !important;" >
+### Check My Coursera & IBM Certificates:
+<a href="https://www.coursera.org/account/accomplishments/verify/S74MPCG754X2" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/ibm.webp" alt="IBM" >
+</a>
+<a href="https://www.coursera.org/account/accomplishments/verify/08X2PUULE8TW" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/ibm.webp" alt="IBM" >
 </a>
 
 ---
