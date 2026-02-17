@@ -11,10 +11,10 @@
 ### Connect with me:
 <p align="left">
   <a href="https://www.instagram.com/mr.sahibaliyev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="40" height="40" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/sahib-aliyev-ai" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" height="40" alt="LinkedIn">
   </a>
 </p>
 
@@ -25,13 +25,22 @@
   </a>
 </p>
 
-### Check My Coursera & IBM Certificates:
-<a href="https://www.coursera.org/account/accomplishments/verify/S74MPCG754X2" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/ibm.webp" alt="IBM" >
-</a>
-<a href="https://www.coursera.org/account/accomplishments/verify/08X2PUULE8TW" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/ibm.webp" alt="IBM" >
-</a>
+### 🎓 Certifications (Coursera & IBM):
+<p align="left">
+  <a href="https://www.coursera.org/account/accomplishments/verify/S74MPCG754X2" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Certificate 1" height="40" style="margin-right: 10px;">
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/08X2PUULE8TW" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Certificate 2" height="40">
+  </a>
+</p>
+
+---
+
+### 🚀 Featured Projects:
+* **[Clustering in Economics](https://github.com/aliyevsahib)**: World Bank data analizi (7 ML alqoritmi).
+* **[Chicago Socioeconomic Analysis](https://github.com/aliyevsahib)**: SQL (JOINS, Sub-queries) ilə data araşdırması.
+* **[Automated Bulk Email System](https://github.com/aliyevsahib)**: Python (SMTP, Pandas) ilə avtomatlaşdırma.
 
 ---
 
