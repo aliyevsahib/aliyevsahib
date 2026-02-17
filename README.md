@@ -10,18 +10,21 @@
 
 ### Connect with me:
 <p align="left">
+  <a href="https://www.instagram.com/mr.sahibaliyev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram">
+  </a>
   <a href="https://www.linkedin.com/in/sahib-aliyev-ai" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn">
   </a>
   <a href="mailto:sahibaliyev.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/>
   </a>
 </p>
 
 ### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,sqlite,pandas,scikitlearn,powerbi,excel,selenium,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,sqlite,sklearn,html,selenium,anaconda,vscode,pycharm&theme=dark" />
   </a>
 </p>
 
