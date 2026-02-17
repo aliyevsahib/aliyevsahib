@@ -1,6 +1,8 @@
-# Hi 👋, I'm Sahib Aliyev
-
-### Junior Data Specialist from Azerbaijan
+<p align="center">
+  # Hi 👋, I'm Sahib Aliyev
+  
+  ### Junior Data Specialist from Azerbaijan
+</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=aliyevsahib&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -20,8 +22,32 @@
 
 ### Languages and Tools:
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,sqlite,sklearn,html,selenium,anaconda,vscode,pycharm&theme=dark" />
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=py&theme=dark" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+  </a>
+  <a href="https://sqlitebrowser.org/">
+    <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
+  </a>
+  <a href="https://scikit-learn.org/stable/#">
+    <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" />
+  </a>
+  <a href="https://www.selenium.dev/">
+    <img src="https://skillicons.dev/icons?i=selenium&theme=dark" />
+  </a>
+  <a href="https://anaconda.org/">
+    <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/">
+    <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" />
   </a>
 </p>
 
@@ -69,18 +95,3 @@
     </td>
   </tr>
 </table>
-
----
-
-### 🚀 Featured Projects:
-* [cite_start]**[Clustering in Economics](https://github.com/aliyevsahib/Application_Of_Clustering_Methods_In_Economics)**: World Bank data analizi (7 ML alqoritmi)[cite: 14].
-* [cite_start]**[Chicago Socioeconomic Analysis](https://github.com/aliyevsahib/Querying-3-Datasets-of-Chicago-with-SQLite)**: SQL (JOINS, Sub-queries) ilə data araşdırması[cite: 15].
-* [cite_start]**[Automated Bulk Email System](https://github.com/aliyevsahib)**: Python (SMTP, Pandas) ilə avtomatlaşdırma[cite: 16].
-
----
-
-### 📊 My GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliyevsahib&show_icons=true&theme=radical&hide_border=true" alt="Sahib's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyevsahib&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="150" />
-</p>
