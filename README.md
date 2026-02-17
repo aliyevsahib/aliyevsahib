@@ -70,19 +70,19 @@
   <tr>
     <td align="center" width="200">
       <a href="https://www.credly.com/badges/7a335702-5980-4b40-a3f4-1f209097e5b3" target="_blank">
-        <img src="https://github.com/user-attachments/assets/065605ad-35b7-4599-aac2-79bccae08300" width="160" alt="Python for Data Science and AI"><br/>
+        <img src="https://raw.githubusercontent.com/aliyevsahib/aliyevsahib/main/assets/python-for-data-science-and-ai.png" width="150" alt="Python for Data Science and AI"><br/>
         <b>Python for DS & AI</b>
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://www.credly.com/badges/fe315273-4140-4db9-8688-3dfeacd8cece" target="_blank">
-        <img src="https://github.com/user-attachments/assets/f3691dd2-2163-4614-86f2-6328c7a70c4c" width="160" alt="Databases and SQL for Data Science"><br/>
+        <img src="https://raw.githubusercontent.com/aliyevsahib/aliyevsahib/main/assets/databases-and-sql-for-data-science.png" width="150" alt="SQL for Data Science"><br/>
         <b>SQL for Data Science</b>
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://www.credly.com/badges/078c8eb6-eb22-43bd-b4e0-0e0a093111b3" target="_blank">
-        <img src="https://github.com/user-attachments/assets/5a2cf16f-0383-4af6-9604-6e30aa1796aa" width="160" alt="Data Science Methodology"><br/>
+        <img src="https://raw.githubusercontent.com/aliyevsahib/aliyevsahib/main/assets/data-science-methodology.png" width="150" alt="DS Methodology"><br/>
         <b>DS Methodology</b>
       </a>
     </td>
@@ -90,19 +90,19 @@
   <tr>
     <td align="center" width="200">
       <a href="https://www.credly.com/badges/9af2d93c-6c0c-4581-9834-111a3bdfbedb" target="_blank">
-        <img src="https://github.com/user-attachments/assets/22d94658-96a2-49b6-9600-7ccac88c8e91" width="160" alt="Python Project for Data Science"><br/>
+        <img src="https://raw.githubusercontent.com/aliyevsahib/aliyevsahib/main/assets/python-project-for-data-science.png" width="150" alt="Python DS Project"><br/>
         <b>Python DS Project</b>
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://www.credly.com/badges/dd2def0d-60c5-4372-87ee-63b3c916bc3b" target="_blank">
-        <img src="https://github.com/user-attachments/assets/8ab2e724-a22c-49af-8724-d3402265763b" width="160" alt="Tools for Data Science"><br/>
+        <img src="https://raw.githubusercontent.com/aliyevsahib/aliyevsahib/main/assets/tools-for-data-science.png" width="150" alt="Tools for Data Science"><br/>
         <b>Tools for Data Science</b>
       </a>
     </td>
     <td align="center" width="200">
       <a href="https://www.credly.com/badges/76b5ab6b-59b4-4453-ac95-bf3d3e7299f3" target="_blank">
-        <img src="https://github.com/user-attachments/assets/73e464f7-bd1f-4eb1-90a4-e388b3d7445f" width="160" alt="Data Science Orientation"><br/>
+        <img src="https://raw.githubusercontent.com/aliyevsahib/aliyevsahib/main/assets/data-science-orientation.png" width="150" alt="DS Orientation"><br/>
         <b>DS Orientation</b>
       </a>
     </td>
