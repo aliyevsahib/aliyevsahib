@@ -41,6 +41,9 @@
   <a href="https://scikit-learn.org/stable/#">
     <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="50"/>
   </a>
+  <a href="https://www.w3schools.com/sql/">
+    <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" width="50"/>
+  </a>
   <a href="https://www.mysql.com/">
     <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50"/>
   </a>
