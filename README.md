@@ -7,8 +7,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=aliyevsahib&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 I’m currently learning **Advanced Web Scraping**
-- 💬 Ask me about **Python, SQL, Web Scraping, and Automation**
+- 🌱 I’m currently learning **NLP with Python**
+- 💬 Ask me about **Python, Probability & Statistics, SQL, Web Scraping, and Automation**
 - 📫 How to reach me: **sahibaliyev.ai@gmail.com**
 
 ### Connect with me:
