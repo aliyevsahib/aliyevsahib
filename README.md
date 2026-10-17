@@ -5,8 +5,6 @@
   Junior Data Analyst / Data Scientist from Azerbaijan
 </h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=aliyevsahib&label=Profile%20views&color=0e75b6&style=flat)
-
 - 🌱 I’m currently learning **Generative AI**
 - 💬 Ask me about **Python, Probability & Statistics, SQL, Machine Learning, and Data Modelling and Visualisation**
 - 📫 How to reach me: **sahibaliyev.ai@gmail.com**
